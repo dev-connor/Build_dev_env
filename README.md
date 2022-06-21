@@ -16,11 +16,12 @@ homebrew 에서 mas 명령어를 통해 설치하려면 앱스토어에 애플�
 <br>
 
 3. 파일 받기
-<img width="1353" alt="3 파일 받기" src="https://user-images.githubusercontent.com/70655507/174720840-dcfca616-0021-4f71-864d-c151fda43795.png">
+4. 
+![image](https://user-images.githubusercontent.com/70655507/174741890-3f8d266c-f120-42aa-a138-5bec4349b599.png)
 
 파일을 받습니다.
 
-> 이미지와는 다르게 현재는 env.sh 는 Brewfile.connor 를 사용하고, env42.sh 는 Brewfile.42dot 을 사용합니다.
+env42.sh 는 Brewfile.42dot 파일을 읽고, env.sh 는 Brewfile.connor 파일을 읽습니다.
 
 <br>
 
