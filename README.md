@@ -20,7 +20,7 @@ homebrew 에서 mas 명령어를 통해 설치하려면 앱스토어에 애플�
 
 파일을 받습니다.
 
-이미지와는 다르게 현재는 env.sh 는 Brewfile.connor 를 사용하고, env42.sh 는 Brewfile.42dot 을 사용합니다.
+> 이미지와는 다르게 현재는 env.sh 는 Brewfile.connor 를 사용하고, env42.sh 는 Brewfile.42dot 을 사용합니다.
 
 <br>
 
