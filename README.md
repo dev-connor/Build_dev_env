@@ -29,12 +29,12 @@ homebrew 에서 mas 명령어를 통해 설치하려면 앱스토어에 애플�
 
 env42.sh 는 Brewfile.42dot 파일을 읽고, env.sh 는 Brewfile.connor 파일을 읽습니다.
 
+`sh env42.sh` 명령어를 입력합니다.
+
 <br>
 
 4. Homebrew 설치
 <img width="1309" alt="4 Homebrew 설치" src="https://user-images.githubusercontent.com/70655507/174720848-309df004-a59f-4460-8a6a-8d070c68e726.png">
-
-`sh env42.sh` 로 로컬 개발환경을 구축합니다.
 
 자동으로 homebrew 를 설치하는 모습입니다.
 
