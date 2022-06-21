@@ -28,6 +28,8 @@ env42.sh 는 Brewfile.42dot 파일을 읽고, env.sh 는 Brewfile.connor 파일�
 4. Homebrew 설치
 <img width="1309" alt="4 Homebrew 설치" src="https://user-images.githubusercontent.com/70655507/174720848-309df004-a59f-4460-8a6a-8d070c68e726.png">
 
+`sh env42.sh` 로 로컬 개발환경을 구축합니다.
+
 자동으로 homebrew 를 설치하는 모습입니다.
 
 <br>
