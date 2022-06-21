@@ -1,6 +1,12 @@
 # Build_dev_env
 Brewfile 과 쉘스크립트로 맥의 로컬개발환경을 구축합니다.
 
+Brewfile 작성 후 Parallels Desktop 에서 가상머신 (MacBook Pro 2020, Intel Core i5) 과
+
+실제 노트북 (MacBook Air, M1) 에서 테스트를 완료했습니다.
+
+<br>
+
 1. 앱스토어 로그인
 ![image](https://user-images.githubusercontent.com/70655507/174720799-85eef5c4-d30e-404f-baf6-7c3c2f3277c3.png)
 
