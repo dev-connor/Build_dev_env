@@ -14,7 +14,7 @@ brew "git"
 cask "sourcetree"
 cask "postman"
 
-# 언어 & 
+# 언어 & 런타임
 brew "node"
 cask "zulu11" # 자바
 brew "yarn"
